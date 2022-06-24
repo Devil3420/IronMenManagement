@@ -5,7 +5,7 @@ from pyrogram.types import (InlineKeyboardButton,                             In
 
 from IronMenRobot import pbot as bot
       
-Iron_Men = "https://telegra.ph/file/3a5f3eb7a934028c56122.jpg""  
+Iron_Men = "https://telegra.ph/file/3a5f3eb7a934028c56122.jpg"
 
 @bot.on_message(filters.command(["noob", "owner"]))
 async def repo(client, message):   
