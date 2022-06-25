@@ -37,7 +37,7 @@
 
 
 <p align="center">
-<a href="https://telegram.me/always_hungry365"><img src="https://img.shields.io/badge/%20Aʙʜɪᴍᴀɴʏᴜ Sɪɴɢʜ Rᴀɴᴀᴡᴀᴛ-black.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://telegram.me/always_hungry365"><img src="https://img.shields.io/badge/%20Mayank-black.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━∆
