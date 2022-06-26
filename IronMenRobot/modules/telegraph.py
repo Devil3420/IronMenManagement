@@ -45,7 +45,7 @@ async def _(event):
                 ms_two = (end - start).seconds
                 os.remove(downloaded_file_name)
                 await h.edit(
-                    "Uᴘʟᴏᴛᴇᴅ ᴛᴏ https://telegra.ph{})".format(media_urls[0]),
+                    "Uᴘʟᴏᴛᴇᴅ ᴛᴏ https://telegra.ph{}".format(media_urls[0]),
                     link_preview=True,
                 )
         elif input_str == "p":
